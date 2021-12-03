@@ -1,0 +1,89 @@
+<ion-content>
+
+    <!-- header app -->
+
+
+    <!-- content -->
+    <ion-grid>
+        <ion-row *ngIf="categories" class="catList">
+            <!-- loop for each categorie item -->
+            <ion-col class="imgCat" *ngFor="let cat of categories">
+                <div (click)="selectedCat = cat.name">
+                    <ion-img [src]="'./assets/images/' + cat.fileName"></ion-img>
+                    <span>{{cat.name}}</span>
+                </div>
+            </ion-col>
+        </ion-row>
+
+        <!-- pub section -->
+        <ion-row class="addsList ion-align-items-center ion-hide-md-down">
+            <ion-col size="4">
+                <ion-text>
+                    <h3>Crave it? Get it!</h3>
+                    <p>Search for a restaurant, cuisine or dish...</p>
+                </ion-text>
+            </ion-col>
+            <ion-col size="4" class="ion-padding">
+                <div [style.backgroundImage]="'url(./assets/images/images-001.jpg)'"></div>
+            </ion-col>
+            <ion-col size="4" class="ion-padding-start">
+                <div class="ion-padding" [style.backgroundImage]="'url(./assets/images/images-002.jpg)'">
+                    <div class="withMask">
+                    <ion-text color="light">
+                        <h3>En exculisivité</h3>
+                        <span>Ici et nulle part ailleurs !</span>
+                    </ion-text>
+                    <ion-button size="small" color="light">Je suis curieux</ion-button>
+                    </div>
+                </div>
+            </ion-col>
+        </ion-row>
+    </ion-grid>
+
+    <ion-grid class="main">
+        <ion-row class="">
+            <!-- filter section -->
+            <ion-col class="stickyWrapper">
+                <div>
+                    hi sticky!
+                </div>
+            </ion-col>
+
+            <!-- restaurants list section -->
+            <ion-col>
+                <ion-grid>
+                    <!-- in a rush? -->
+                    <ion-row class="ion-no-padding ion-padding-bottom ion-margin-bottom">
+                        <ion-col size="12" class="ion-padding-start ion-padding-bottom ion-margin-bottom">
+                            <ion-label>In a rush ?</ion-label>
+                        </ion-col>
+                        <ion-col 
+                            size="12"
+                            size-md="3"
+                            *ngFor="let item of restaurants?.slice(0, 4)">
+                            {{item|json}}
+                        </ion-col>
+                    </ion-row>
+
+                    <!-- today's offers -->
+                    <ion-row>
+                        <ion-col size="12" class="ion-padding-start ion-padding-botttom">
+                            <ion-label>Today's offers</ion-label>
+                        </ion-col>
+                    </ion-row>
+
+                    <!-- buy one, get one freee -->
+                    <ion-row></ion-row>
+
+                    <!-- explore by category -->
+                    <ion-row></ion-row>
+
+                    <!-- Popular near you -->
+                    <ion-row></ion-row>
+
+                </ion-grid>
+            </ion-col>
+        </ion-row>
+    </ion-grid>
+
+</ion-content>

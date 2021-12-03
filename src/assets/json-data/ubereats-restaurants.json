@@ -1,0 +1,998 @@
+[{
+  "title": "Restaurant Karne Genève",
+  "subTitle": null,
+  "price": "$$",
+  "menu": null,
+  "categoryName": "Italian restaurant",
+  "address": "Rue Bémont 22, 1204 Genève, Switzerland",
+  "locatedIn": null,
+  "neighborhood": "Rue Bémont 22",
+  "street": "Rue Bémont 22",
+  "city": "Geneva",
+  "postalCode": "1204",
+  "state": null,
+  "countryCode": "CH",
+  "plusCode": "643V+7Q Geneva, Switzerland",
+  "website": "http://www.karne.ch/",
+  "phone": "+41 22 310 31 00",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "totalScore": 4.4,
+  "isAdvertisement": false,
+  "rank": 8,
+  "placeId": "ChIJj_0tbilljEcRB_TplgYPDK8",
+  "categories": [
+    "Italian restaurant"
+  ],
+  "cid": "12613473177334051847",
+  "url": "https://www.google.com/maps/place/Restaurant+Karne+Gen%C3%A8ve/@46.2031583,6.1421959,17z/data=!3m1!4b1!4m5!3m4!1s0x478c65296e2dfd8f:0xaf0c0f0696e9f407!8m2!3d46.2031583!4d6.1443846?hl=en",
+  "searchPageUrl": "https://www.google.com/maps/search/restaurants+gen%C3%A8ve/@46.2067259,6.1440807,14z?hl=en",
+  "searchString": null,
+  "location": {
+    "lat": 46.2031583,
+    "lng": 6.1443846
+  },
+  "scrapedAt": "2021-12-01T11:10:21.479Z",
+  "reviewsCount": 249,
+  "reviewsDistribution": {
+    "oneStar": 7,
+    "twoStar": 10,
+    "threeStar": 23,
+    "fourStar": 58,
+    "fiveStar": 151
+  },
+  "reviews": [],
+  "orderBy": [
+    {
+      "name": "thefork.ch",
+      "url": "https://www.thefork.ch/restaurant/karne-r425991?cc=18174-54f"
+    }
+  ]
+},
+{
+  "title": "Bayview",
+  "subTitle": null,
+  "price": "$$$$",
+  "menu": "restaurantbayview.com",
+  "categoryName": "Fine dining restaurant",
+  "address": "Quai Wilson 47, 1201 Genève, Switzerland",
+  "locatedIn": "Hotel President Wilson, a Luxury Collection Hotel, Geneva",
+  "neighborhood": "Quai Wilson 47",
+  "street": "Quai Wilson 47",
+  "city": "Geneva",
+  "postalCode": "1201",
+  "state": null,
+  "countryCode": "CH",
+  "plusCode": "6572+JP Geneva, Switzerland",
+  "website": "http://www.restaurantbayview.com/",
+  "phone": "+41 22 906 65 52",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "totalScore": 4.7,
+  "isAdvertisement": false,
+  "rank": 7,
+  "placeId": "ChIJFSXo9yJljEcRJ9pU5VO6_AY",
+  "categories": [
+    "Fine dining restaurant"
+  ],
+  "cid": "503482127851248167",
+  "url": "https://www.google.com/maps/place/Bayview/@46.2140278,6.1495637,17z/data=!3m1!4b1!4m5!3m4!1s0x478c6522f7e82515:0x6fcba53e554da27!8m2!3d46.2139493!4d6.1511393?hl=en",
+  "searchPageUrl": "https://www.google.com/maps/search/restaurants+gen%C3%A8ve/@46.2067259,6.1440807,14z?hl=en",
+  "searchString": null,
+  "location": {
+    "lat": 46.2139493,
+    "lng": 6.1511393
+  },
+  "scrapedAt": "2021-12-01T11:10:22.479Z",
+  "reviewsCount": 147,
+  "reviewsDistribution": {
+    "oneStar": 1,
+    "twoStar": 3,
+    "threeStar": 4,
+    "fourStar": 18,
+    "fiveStar": 121
+  },
+  "reviews": [],
+  "orderBy": [
+    {
+      "name": "thefork.ch",
+      "url": "https://www.thefork.ch/restaurant/le-bayview-by-michel-roth-hotel-president-wilson-r8943?cc=18174-54f"
+    }
+  ]
+},
+{
+  "title": "Spinella",
+  "subTitle": null,
+  "price": null,
+  "menu": null,
+  "categoryName": "Italian restaurant",
+  "address": "Rue Liotard 4, 1202 Genève, Switzerland",
+  "locatedIn": null,
+  "neighborhood": "Rue Liotard 4",
+  "street": "Rue Liotard 4",
+  "city": "Geneva",
+  "postalCode": "1202",
+  "state": null,
+  "countryCode": "CH",
+  "plusCode": "645M+QR Geneva, Switzerland",
+  "website": "https://www.spinella.ch/",
+  "phone": "+41 22 503 41 86",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "totalScore": 4.8,
+  "isAdvertisement": false,
+  "rank": 20,
+  "placeId": "ChIJPSCx-qZljEcRxvhIyIEvzV0",
+  "categories": [
+    "Italian restaurant",
+    "Beer hall",
+    "Cocktail bar",
+    "Wine bar"
+  ],
+  "cid": "6759110850210494662",
+  "url": "https://www.google.com/maps/place/Spinella/@46.2094935,6.132422,17z/data=!3m1!4b1!4m5!3m4!1s0x478c65a6fab1203d:0x5dcd2f81c848f8c6!8m2!3d46.2094483!4d6.1345844?hl=en",
+  "searchPageUrl": "https://www.google.com/maps/search/restaurants+gen%C3%A8ve/@46.2067259,6.1440807,14z?hl=en",
+  "searchString": null,
+  "location": {
+    "lat": 46.2094483,
+    "lng": 6.1345844
+  },
+  "scrapedAt": "2021-12-01T11:10:24.889Z",
+  "reviewsCount": 270,
+  "reviewsDistribution": {
+    "oneStar": 2,
+    "twoStar": 4,
+    "threeStar": 8,
+    "fourStar": 28,
+    "fiveStar": 228
+  },
+  "reviews": [],
+  "orderBy": []
+},
+{
+  "title": "Fifty-Fifty",
+  "subTitle": null,
+  "price": "$$",
+  "menu": null,
+  "categoryName": "Restaurant",
+  "address": "Rue Neuve-du-Molard 7, 1204 Genève, Switzerland",
+  "locatedIn": null,
+  "neighborhood": "Rue Neuve-du-Molard 7",
+  "street": "Rue Neuve-du-Molard 7",
+  "city": "Geneva",
+  "postalCode": "1204",
+  "state": null,
+  "countryCode": "CH",
+  "plusCode": "643X+9C Geneva, Switzerland",
+  "website": null,
+  "phone": "+41 22 310 26 98",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "totalScore": 4.6,
+  "isAdvertisement": false,
+  "rank": 19,
+  "placeId": "ChIJnwlm7S5ljEcR8rnKUqutlsg",
+  "categories": [
+    "Restaurant"
+  ],
+  "cid": "14453931005432216050",
+  "url": "https://www.google.com/maps/place/Fifty-Fifty/@46.203453,6.1463843,17z/data=!3m1!4b1!4m5!3m4!1s0x478c652eed66099f:0xc896adab52cab9f2!8m2!3d46.2034125!4d6.1485585?hl=en",
+  "searchPageUrl": "https://www.google.com/maps/search/restaurants+gen%C3%A8ve/@46.2067259,6.1440807,14z?hl=en",
+  "searchString": null,
+  "location": {
+    "lat": 46.2034125,
+    "lng": 6.1485585
+  },
+  "scrapedAt": "2021-12-01T11:10:27.290Z",
+  "reviewsCount": 355,
+  "reviewsDistribution": {
+    "oneStar": 2,
+    "twoStar": 6,
+    "threeStar": 25,
+    "fourStar": 84,
+    "fiveStar": 238
+  },
+  "reviews": [],
+  "orderBy": []
+},
+{
+  "title": "La Favola",
+  "subTitle": null,
+  "price": "$$",
+  "menu": "lafavola.ch",
+  "categoryName": "Italian restaurant",
+  "address": "Rue Jean-Calvin 15, 1204 Genève, Switzerland",
+  "locatedIn": null,
+  "neighborhood": "Rue Jean-Calvin 15",
+  "street": "Rue Jean-Calvin 15",
+  "city": "Geneva",
+  "postalCode": "1204",
+  "state": null,
+  "countryCode": "CH",
+  "plusCode": "642W+QX Geneva, Switzerland",
+  "website": "http://lafavola.ch/",
+  "phone": "+41 22 311 74 37",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "totalScore": 4.5,
+  "isAdvertisement": false,
+  "rank": 18,
+  "placeId": "ChIJTx5KGSxljEcRvGuKESLfj4Q",
+  "categories": [
+    "Italian restaurant",
+    "Restaurant"
+  ],
+  "cid": "9552098672092277692",
+  "url": "https://www.google.com/maps/place/La+Favola/@46.20199,6.145211,17z/data=!3m1!4b1!4m5!3m4!1s0x478c652c194a1e4f:0x848fdf22118a6bbc!8m2!3d46.20199!4d6.1473997?hl=en",
+  "searchPageUrl": "https://www.google.com/maps/search/restaurants+gen%C3%A8ve/@46.2067259,6.1440807,14z?hl=en",
+  "searchString": null,
+  "location": {
+    "lat": 46.20199,
+    "lng": 6.1473997
+  },
+  "scrapedAt": "2021-12-01T11:10:36.794Z",
+  "reviewsCount": 96,
+  "reviewsDistribution": {
+    "oneStar": 2,
+    "twoStar": 2,
+    "threeStar": 10,
+    "fourStar": 17,
+    "fiveStar": 65
+  },
+  "reviews": [],
+  "orderBy": []
+},
+{
+  "title": "Jeu de l'Arc - Restaurant Italien Genève",
+  "subTitle": null,
+  "price": "$$",
+  "menu": "jeudelarc.ch",
+  "categoryName": "Restaurant",
+  "address": "Av. de Frontenex 5, 1207 Genève, Switzerland",
+  "locatedIn": null,
+  "neighborhood": "Av. de Frontenex 5",
+  "street": "Av. de Frontenex 5",
+  "city": "Geneva",
+  "postalCode": "1207",
+  "state": null,
+  "countryCode": "CH",
+  "plusCode": "6524+QV Geneva, Switzerland",
+  "website": "http://www.jeudelarc.ch/",
+  "phone": "+41 22 736 88 54",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "totalScore": 4.3,
+  "isAdvertisement": false,
+  "rank": 17,
+  "placeId": "ChIJr27sVDFljEcRM1RgZB5Yx24",
+  "categories": [
+    "Restaurant",
+    "Italian restaurant"
+  ],
+  "cid": "7982445752093791283",
+  "url": "https://www.google.com/maps/place/Jeu+de+l'Arc+-+Restaurant+Italien+Gen%C3%A8ve/@46.2019411,6.1549898,17z/data=!3m1!4b1!4m5!3m4!1s0x478c653154ec6eaf:0x6ec7581e64605433!8m2!3d46.2018971!4d6.157163?hl=en",
+  "searchPageUrl": "https://www.google.com/maps/search/restaurants+gen%C3%A8ve/@46.2067259,6.1440807,14z?hl=en",
+  "searchString": null,
+  "location": {
+    "lat": 46.2018971,
+    "lng": 6.157163
+  },
+  "scrapedAt": "2021-12-01T11:10:38.591Z",
+  "reviewsCount": 209,
+  "reviewsDistribution": {
+    "oneStar": 7,
+    "twoStar": 8,
+    "threeStar": 27,
+    "fourStar": 51,
+    "fiveStar": 116
+  },
+  "reviews": [],
+  "orderBy": []
+},
+{
+  "title": "Café du Soleil",
+  "subTitle": null,
+  "price": "$$",
+  "menu": "cafedusoleil.ch",
+  "categoryName": "Swiss restaurant",
+  "address": "Pl. du Petit-Saconnex 6, 1209 Genève, Switzerland",
+  "locatedIn": null,
+  "neighborhood": "Pl. du Petit-Saconnex 6",
+  "street": "Pl. du Petit-Saconnex 6",
+  "city": "Geneva",
+  "postalCode": "1209",
+  "state": null,
+  "countryCode": "CH",
+  "plusCode": "64FH+83 Geneva, Switzerland",
+  "website": "http://www.cafedusoleil.ch/",
+  "phone": "+41 22 733 34 17",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "totalScore": 4.4,
+  "isAdvertisement": false,
+  "rank": 16,
+  "placeId": "ChIJMwpcEOxkjEcRd_2UofasmUM",
+  "categories": [
+    "Swiss restaurant",
+    "Cafe",
+    "Restaurant"
+  ],
+  "cid": "4871114647250730359",
+  "url": "https://www.google.com/maps/place/Caf%C3%A9+du+Soleil/@46.2232563,6.1254589,17z/data=!3m1!4b1!4m5!3m4!1s0x478c64ec105c0a33:0x4399acf6a194fd77!8m2!3d46.223212!4d6.1277094?hl=en",
+  "searchPageUrl": "https://www.google.com/maps/search/restaurants+gen%C3%A8ve/@46.2067259,6.1440807,14z?hl=en",
+  "searchString": null,
+  "location": {
+    "lat": 46.223212,
+    "lng": 6.1277094
+  },
+  "scrapedAt": "2021-12-01T11:10:40.467Z",
+  "reviewsCount": 1736,
+  "reviewsDistribution": {
+    "oneStar": 38,
+    "twoStar": 25,
+    "threeStar": 133,
+    "fourStar": 500,
+    "fiveStar": 1040
+  },
+  "reviews": [],
+  "orderBy": [
+    {
+      "name": "cafedusoleil.ch",
+      "url": "http://www.cafedusoleil.ch/site/fr/reservation/"
+    }
+  ]
+},
+{
+  "title": "Bistrot du Bœuf Rouge",
+  "subTitle": null,
+  "price": "$$$",
+  "menu": null,
+  "categoryName": "Bistro",
+  "address": "Rue Docteur-Alfred-Vincent 17, 1201 Genève, Switzerland",
+  "locatedIn": null,
+  "neighborhood": "Rue Docteur-Alfred-Vincent 17",
+  "street": "Rue Docteur-Alfred-Vincent 17",
+  "city": "Geneva",
+  "postalCode": "1201",
+  "state": null,
+  "countryCode": "CH",
+  "plusCode": "646X+27 Geneva, Switzerland",
+  "website": "http://www.boeufrouge.ch/",
+  "phone": "+41 22 732 75 37",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "totalScore": 4.6,
+  "isAdvertisement": false,
+  "rank": 15,
+  "placeId": "ChIJV_2pJyRljEcRE8iSmUpjjbA",
+  "categories": [
+    "Bistro"
+  ],
+  "cid": "12721933694446782483",
+  "url": "https://www.google.com/maps/place/Bistrot+du+B%C5%93uf+Rouge/@46.2100849,6.1460134,17z/data=!3m1!4b1!4m5!3m4!1s0x478c652427a9fd57:0xb08d634a9992c813!8m2!3d46.2100865!4d6.1482032?hl=en",
+  "searchPageUrl": "https://www.google.com/maps/search/restaurants+gen%C3%A8ve/@46.2067259,6.1440807,14z?hl=en",
+  "searchString": null,
+  "location": {
+    "lat": 46.2100865,
+    "lng": 6.1482032
+  },
+  "scrapedAt": "2021-12-01T11:10:48.080Z",
+  "reviewsCount": 340,
+  "reviewsDistribution": {
+    "oneStar": 8,
+    "twoStar": 4,
+    "threeStar": 10,
+    "fourStar": 63,
+    "fiveStar": 255
+  },
+  "reviews": [],
+  "orderBy": []
+},
+{
+  "title": "Eat Me Restaurant Geneva",
+  "subTitle": null,
+  "price": "$$$",
+  "menu": "eat-me.ch",
+  "categoryName": "Restaurant",
+  "address": "Rue Zurlinden 6, 1207 Genève, Switzerland",
+  "locatedIn": null,
+  "neighborhood": "Rue Zurlinden 6",
+  "street": "Rue Zurlinden 6",
+  "city": "Geneva",
+  "postalCode": "1207",
+  "state": null,
+  "countryCode": "CH",
+  "plusCode": "6535+9C Geneva, Switzerland",
+  "website": "https://eat-me.ch/",
+  "phone": "+41 22 736 19 97",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "totalScore": 4.5,
+  "isAdvertisement": false,
+  "rank": 14,
+  "placeId": "ChIJrQ2Q30lljEcR7vqI9O4vM90",
+  "categories": [
+    "Restaurant",
+    "Cocktail bar"
+  ],
+  "cid": "15939136209545657070",
+  "url": "https://www.google.com/maps/place/Eat+Me+Restaurant+Geneva/@46.2034532,6.1563519,17z/data=!3m1!4b1!4m5!3m4!1s0x478c6549df900dad:0xdd332feef488faee!8m2!3d46.2034532!4d6.1585406?hl=en",
+  "searchPageUrl": "https://www.google.com/maps/search/restaurants+gen%C3%A8ve/@46.2067259,6.1440807,14z?hl=en",
+  "searchString": null,
+  "location": {
+    "lat": 46.2034532,
+    "lng": 6.1585406
+  },
+  "scrapedAt": "2021-12-01T11:10:55.512Z",
+  "reviewsCount": 204,
+  "reviewsDistribution": {
+    "oneStar": 5,
+    "twoStar": 6,
+    "threeStar": 4,
+    "fourStar": 59,
+    "fiveStar": 130
+  },
+  "reviews": [],
+  "orderBy": []
+},
+{
+  "title": "Le Thermomètre",
+  "subTitle": null,
+  "price": "$$",
+  "menu": null,
+  "categoryName": "French restaurant",
+  "address": "Rue Neuve-du-Molard 22, 1204 Genève, Switzerland",
+  "locatedIn": null,
+  "neighborhood": "Rue Neuve-du-Molard 22",
+  "street": "Rue Neuve-du-Molard 22",
+  "city": "Geneva",
+  "postalCode": "1204",
+  "state": null,
+  "countryCode": "CH",
+  "plusCode": "643X+7R Geneva, Switzerland",
+  "website": "https://www.lafourchette.ch/restaurant/le-thermometre/21185",
+  "phone": "+41 22 310 25 35",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "totalScore": 4.5,
+  "isAdvertisement": false,
+  "rank": 13,
+  "placeId": "ChIJhWLHYC5ljEcRYAT8ix-qIZA",
+  "categories": [
+    "French restaurant",
+    "Restaurant"
+  ],
+  "cid": "10385769268162331744",
+  "url": "https://www.google.com/maps/place/Le+Thermom%C3%A8tre/@46.2031724,6.1473453,17z/data=!3m1!4b1!4m5!3m4!1s0x478c652e60c76285:0x9021aa1f8bfc0460!8m2!3d46.2031724!4d6.149534?hl=en",
+  "searchPageUrl": "https://www.google.com/maps/search/restaurants+gen%C3%A8ve/@46.2067259,6.1440807,14z?hl=en",
+  "searchString": null,
+  "location": {
+    "lat": 46.2031724,
+    "lng": 6.149534
+  },
+  "scrapedAt": "2021-12-01T11:11:02.653Z",
+  "reviewsCount": 249,
+  "reviewsDistribution": {
+    "oneStar": 7,
+    "twoStar": 3,
+    "threeStar": 11,
+    "fourStar": 60,
+    "fiveStar": 168
+  },
+  "reviews": [],
+  "orderBy": [
+    {
+      "name": "thefork.ch",
+      "url": "https://www.thefork.ch/restaurant/le-thermometre-r21185?cc=18174-54f"
+    }
+  ]
+},
+{
+  "title": "Brasserie Lipp",
+  "subTitle": null,
+  "price": "$$$",
+  "menu": null,
+  "categoryName": "French restaurant",
+  "address": "Confédération centre, Rue de la Confédération 8, 1204 Geneva, Switzerland",
+  "locatedIn": "Confédération Centre",
+  "neighborhood": "Confédération centre, Rue de la Confédération 8",
+  "street": "Confédération centre, Rue de la Confédération 8",
+  "city": "Geneva",
+  "postalCode": "1204",
+  "state": null,
+  "countryCode": "CH",
+  "plusCode": "643W+82 Geneva, Switzerland",
+  "website": "https://www.brasserie-lipp.com/",
+  "phone": "+41 22 318 80 30",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "totalScore": 4.4,
+  "isAdvertisement": false,
+  "rank": 12,
+  "placeId": "ChIJpSAtailljEcRV-WskLeIpv4",
+  "categories": [
+    "French restaurant",
+    "Brasserie"
+  ],
+  "cid": "18349504053755307351",
+  "url": "https://www.google.com/maps/place/Brasserie+Lipp/@46.2033618,6.1428397,17z/data=!3m1!4b1!4m5!3m4!1s0x478c65296a2d20a5:0xfea688b790ace557!8m2!3d46.2033618!4d6.1450284?hl=en",
+  "searchPageUrl": "https://www.google.com/maps/search/restaurants+gen%C3%A8ve/@46.2067259,6.1440807,14z?hl=en",
+  "searchString": null,
+  "location": {
+    "lat": 46.2033618,
+    "lng": 6.1450284
+  },
+  "scrapedAt": "2021-12-01T11:11:10.024Z",
+  "reviewsCount": 1473,
+  "reviewsDistribution": {
+    "oneStar": 34,
+    "twoStar": 25,
+    "threeStar": 117,
+    "fourStar": 426,
+    "fiveStar": 871
+  },
+  "reviews": [],
+  "orderBy": []
+},
+{
+  "title": "La Cantine des Commerçants",
+  "subTitle": null,
+  "price": null,
+  "menu": "lacantine.ch",
+  "categoryName": "Restaurant",
+  "address": "Bd Carl-Vogt 29, 1205 Genève, Switzerland",
+  "locatedIn": null,
+  "neighborhood": "Bd Carl-Vogt 29",
+  "street": "Bd Carl-Vogt 29",
+  "city": "Geneva",
+  "postalCode": "1205",
+  "state": null,
+  "countryCode": "CH",
+  "plusCode": "54XM+W5 Geneva, Switzerland",
+  "website": "http://www.lacantine.ch/",
+  "phone": "+41 22 328 16 70",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "totalScore": 4.4,
+  "isAdvertisement": false,
+  "rank": 11,
+  "placeId": "ChIJZ_cNE9NkjEcRwsQJmeJJUGI",
+  "categories": [
+    "Restaurant",
+    "Bistro",
+    "Cafe",
+    "Brasserie"
+  ],
+  "cid": "7084243451432780994",
+  "url": "https://www.google.com/maps/place/La+Cantine+des+Commer%C3%A7ants/@46.199873,6.1307969,17z/data=!3m1!4b1!4m5!3m4!1s0x478c64d3130df767:0x625049e29909c4c2!8m2!3d46.1997995!4d6.1329366?hl=en",
+  "searchPageUrl": "https://www.google.com/maps/search/restaurants+gen%C3%A8ve/@46.2067259,6.1440807,14z?hl=en",
+  "searchString": null,
+  "location": {
+    "lat": 46.1997995,
+    "lng": 6.1329366
+  },
+  "scrapedAt": "2021-12-01T11:11:18.306Z",
+  "reviewsCount": 183,
+  "reviewsDistribution": {
+    "oneStar": 4,
+    "twoStar": 1,
+    "threeStar": 16,
+    "fourStar": 54,
+    "fiveStar": 108
+  },
+  "reviews": [],
+  "orderBy": [
+    {
+      "name": "lacantine.ch",
+      "url": "http://www.lacantine.ch/reservez-votre-table/"
+    }
+  ]
+},
+{
+  "title": "IZUMI",
+  "subTitle": null,
+  "price": "$$$$",
+  "menu": "fourseasons.com",
+  "categoryName": "Japanese restaurant",
+  "address": "Quai des Bergues 33, 1201 Genève, Switzerland",
+  "locatedIn": "Four Seasons Hotel des Bergues Geneva",
+  "neighborhood": "Quai des Bergues 33",
+  "street": "Quai des Bergues 33",
+  "city": "Geneva",
+  "postalCode": "1201",
+  "state": null,
+  "countryCode": "CH",
+  "plusCode": "644W+QR Geneva, Switzerland",
+  "website": "https://www.fourseasons.com/geneva/dining/restaurants/izumi-takeaway/izumi-at-home/?seo=google_local_gen4_emea",
+  "phone": "+41 22 908 75 25",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "totalScore": 4.6,
+  "isAdvertisement": false,
+  "rank": 10,
+  "placeId": "ChIJE7P2qShljEcRkC2MF1dDS3I",
+  "categories": [
+    "Japanese restaurant",
+    "Asian fusion restaurant",
+    "Restaurant"
+  ],
+  "cid": "8235750384913362320",
+  "url": "https://www.google.com/maps/place/IZUMI/@46.2069892,6.1449166,17z/data=!3m1!4b1!4m5!3m4!1s0x478c6528a9f6b313:0x724b4357178c2d90!8m2!3d46.2069892!4d6.1471053?hl=en",
+  "searchPageUrl": "https://www.google.com/maps/search/restaurants+gen%C3%A8ve/@46.2067259,6.1440807,14z?hl=en",
+  "searchString": null,
+  "location": {
+    "lat": 46.2069892,
+    "lng": 6.1471053
+  },
+  "scrapedAt": "2021-12-01T11:11:25.725Z",
+  "reviewsCount": 362,
+  "reviewsDistribution": {
+    "oneStar": 11,
+    "twoStar": 4,
+    "threeStar": 14,
+    "fourStar": 52,
+    "fiveStar": 281
+  },
+  "reviews": [],
+  "orderBy": []
+},
+{
+  "title": "La Plancha",
+  "subTitle": null,
+  "price": "$$$",
+  "menu": "laplancha.ch",
+  "categoryName": "Down home cooking restaurant",
+  "address": "Pl. des Eaux-Vives 2, 1207 Genève, Switzerland",
+  "locatedIn": null,
+  "neighborhood": "Pl. des Eaux-Vives 2",
+  "street": "Pl. des Eaux-Vives 2",
+  "city": "Geneva",
+  "postalCode": "1207",
+  "state": null,
+  "countryCode": "CH",
+  "plusCode": "6534+2C Geneva, Switzerland",
+  "website": "https://www.laplancha.ch/",
+  "phone": "+41 22 735 22 50",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "totalScore": 4.3,
+  "isAdvertisement": false,
+  "rank": 9,
+  "placeId": "ChIJTSVzaTFljEcR7-kiOlJ55Dc",
+  "categories": [
+    "Down home cooking restaurant",
+    "Bar",
+    "Bistro",
+    "Coffee shop",
+    "European restaurant",
+    "Fondue restaurant",
+    "Restaurant",
+    "Tapas bar",
+    "Tapas restaurant",
+    "Wine bar"
+  ],
+  "cid": "4027477360845711855",
+  "url": "https://www.google.com/maps/place/La+Plancha/@46.2026177,6.1538915,17z/data=!3m1!4b1!4m5!3m4!1s0x478c65316973254d:0x37e479523a22e9ef!8m2!3d46.2024855!4d6.1559663?hl=en",
+  "searchPageUrl": "https://www.google.com/maps/search/restaurants+gen%C3%A8ve/@46.2067259,6.1440807,14z?hl=en",
+  "searchString": null,
+  "location": {
+    "lat": 46.2024855,
+    "lng": 6.1559663
+  },
+  "scrapedAt": "2021-12-01T11:11:33.043Z",
+  "reviewsCount": 366,
+  "reviewsDistribution": {
+    "oneStar": 11,
+    "twoStar": 9,
+    "threeStar": 23,
+    "fourStar": 123,
+    "fiveStar": 200
+  },
+  "reviews": [],
+  "orderBy": [
+    {
+      "name": "laplancha.ch",
+      "url": "https://www.laplancha.ch/fr/"
+    }
+  ]
+},
+{
+  "title": "Bistrot Dumas",
+  "subTitle": null,
+  "price": "$$",
+  "menu": null,
+  "categoryName": "Restaurant",
+  "address": "Av. Dumas 7, 1206 Genève, Switzerland",
+  "locatedIn": null,
+  "neighborhood": "Av. Dumas 7",
+  "street": "Av. Dumas 7",
+  "city": "Geneva",
+  "postalCode": "1206",
+  "state": null,
+  "countryCode": "CH",
+  "plusCode": "55R3+QV Geneva, Switzerland",
+  "website": "http://www.lebistrotdumas.ch/",
+  "phone": "+41 22 347 74 22",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "totalScore": 4.6,
+  "isAdvertisement": false,
+  "rank": 6,
+  "placeId": "ChIJfaC3qM56jEcRaOULH6-VkeI",
+  "categories": [
+    "Restaurant"
+  ],
+  "cid": "16325994703567447400",
+  "url": "https://www.google.com/maps/place/Bistrot+Dumas/@46.191911,6.1525013,17z/data=!3m1!4b1!4m5!3m4!1s0x478c7acea8b7a07d:0xe29195af1f0be568!8m2!3d46.1919026!4d6.1546834?hl=en",
+  "searchPageUrl": "https://www.google.com/maps/search/restaurants+gen%C3%A8ve/@46.2067259,6.1440807,14z?hl=en",
+  "searchString": null,
+  "location": {
+    "lat": 46.1919026,
+    "lng": 6.1546834
+  },
+  "scrapedAt": "2021-12-01T11:11:40.442Z",
+  "reviewsCount": 152,
+  "reviewsDistribution": {
+    "oneStar": 1,
+    "twoStar": 3,
+    "threeStar": 10,
+    "fourStar": 36,
+    "fiveStar": 102
+  },
+  "reviews": [],
+  "orderBy": []
+},
+{
+  "title": "L' Aparté",
+  "subTitle": null,
+  "price": null,
+  "menu": null,
+  "categoryName": "Fine dining restaurant",
+  "address": "Rue de Lausanne 43, 1201 Genève, Switzerland",
+  "locatedIn": null,
+  "neighborhood": "Rue de Lausanne 43",
+  "street": "Rue de Lausanne 43",
+  "city": "Geneva",
+  "postalCode": "1201",
+  "state": null,
+  "countryCode": "CH",
+  "plusCode": "647W+C5 Geneva, Switzerland",
+  "website": "https://www.hotelroyalgeneva.com/fr/restaurants-bar/laparte/",
+  "phone": "+41 22 906 14 60",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "totalScore": 4.8,
+  "isAdvertisement": false,
+  "rank": 5,
+  "placeId": "ChIJG6LF5SBljEcRV2X1bg60qdk",
+  "categories": [
+    "Fine dining restaurant"
+  ],
+  "cid": "15684265151378580823",
+  "url": "https://www.google.com/maps/place/L'+Apart%C3%A9/@46.2135949,6.1432062,17z/data=!3m1!4b1!4m5!3m4!1s0x478c6520e5c5a21b:0xd9a9b40e6ef56557!8m2!3d46.2135949!4d6.1453949?hl=en",
+  "searchPageUrl": "https://www.google.com/maps/search/restaurants+gen%C3%A8ve/@46.2067259,6.1440807,14z?hl=en",
+  "searchString": null,
+  "location": {
+    "lat": 46.2135949,
+    "lng": 6.1453949
+  },
+  "scrapedAt": "2021-12-01T11:11:47.367Z",
+  "reviewsCount": 67,
+  "reviewsDistribution": {
+    "oneStar": 1,
+    "twoStar": 0,
+    "threeStar": 2,
+    "fourStar": 4,
+    "fiveStar": 60
+  },
+  "reviews": [],
+  "orderBy": [
+    {
+      "name": "thefork.ch",
+      "url": "https://www.thefork.ch/restaurant/l-aparte-r271395?cc=18174-54f"
+    }
+  ]
+},
+{
+  "title": "Il Lago",
+  "subTitle": null,
+  "price": null,
+  "menu": "fourseasons.com",
+  "categoryName": "Italian restaurant",
+  "address": "Quai des Bergues 33, 1201 Genève, Switzerland",
+  "locatedIn": "Four Seasons Hotel des Bergues Geneva",
+  "neighborhood": "Quai des Bergues 33",
+  "street": "Quai des Bergues 33",
+  "city": "Geneva",
+  "postalCode": "1201",
+  "state": null,
+  "countryCode": "CH",
+  "plusCode": "644W+QR Geneva, Switzerland",
+  "website": "https://www.fourseasons.com/geneva/dining/restaurants/il_lago/?seo=google_local_gen2_emea",
+  "phone": "+41 22 908 71 10",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "totalScore": 4.6,
+  "isAdvertisement": false,
+  "rank": 4,
+  "placeId": "ChIJE7P2qShljEcRZUc-PjvxJpg",
+  "categories": [
+    "Italian restaurant",
+    "Breakfast restaurant",
+    "Fine dining restaurant",
+    "Restaurant",
+    "Wine bar"
+  ],
+  "cid": "10963715579629684581",
+  "url": "https://www.google.com/maps/place/Il+Lago/@46.2069892,6.1449166,17z/data=!3m1!4b1!4m5!3m4!1s0x478c6528a9f6b313:0x9826f13b3e3e4765!8m2!3d46.2069892!4d6.1471053?hl=en",
+  "searchPageUrl": "https://www.google.com/maps/search/restaurants+gen%C3%A8ve/@46.2067259,6.1440807,14z?hl=en",
+  "searchString": null,
+  "location": {
+    "lat": 46.2069892,
+    "lng": 6.1471053
+  },
+  "scrapedAt": "2021-12-01T11:11:54.531Z",
+  "reviewsCount": 175,
+  "reviewsDistribution": {
+    "oneStar": 4,
+    "twoStar": 5,
+    "threeStar": 8,
+    "fourStar": 30,
+    "fiveStar": 128
+  },
+  "reviews": [],
+  "orderBy": []
+},
+{
+  "title": "Chat-Botté",
+  "subTitle": null,
+  "price": "$$$$",
+  "menu": "beau-rivage.ch",
+  "categoryName": "European restaurant",
+  "address": "Quai du Mont-Blanc 13, 1201 Genève, Switzerland",
+  "locatedIn": "Beau-Rivage Genève",
+  "neighborhood": "Quai du Mont-Blanc 13",
+  "street": "Quai du Mont-Blanc 13",
+  "city": "Geneva",
+  "postalCode": "1201",
+  "state": null,
+  "countryCode": "CH",
+  "plusCode": "645X+JW Geneva, Switzerland",
+  "website": "http://www.beau-rivage.ch/fr/gastronomie/restaurant-gastronomique-le-chat-botte/",
+  "phone": "+41 22 716 69 20",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "totalScore": 4.6,
+  "isAdvertisement": false,
+  "rank": 3,
+  "placeId": "ChIJk08TrSVljEcR6tL89__lzVE",
+  "categories": [
+    "European restaurant"
+  ],
+  "cid": "5894620374837809898",
+  "url": "https://www.google.com/maps/place/Chat-Bott%C3%A9/@46.2091112,6.1476004,17z/data=!3m1!4b1!4m5!3m4!1s0x478c6525ad134f93:0x51cde5fff7fcd2ea!8m2!3d46.2091112!4d6.1497891?hl=en",
+  "searchPageUrl": "https://www.google.com/maps/search/restaurants+gen%C3%A8ve/@46.2067259,6.1440807,14z?hl=en",
+  "searchString": null,
+  "location": {
+    "lat": 46.2091112,
+    "lng": 6.1497891
+  },
+  "scrapedAt": "2021-12-01T11:12:01.733Z",
+  "reviewsCount": 146,
+  "reviewsDistribution": {
+    "oneStar": 2,
+    "twoStar": 4,
+    "threeStar": 7,
+    "fourStar": 18,
+    "fiveStar": 115
+  },
+  "reviews": [],
+  "orderBy": [
+    {
+      "name": "beau-rivage.ch",
+      "url": "http://www.beau-rivage.ch/fr/gastronomie/restaurant-gastronomique-le-chat-botte/"
+    },
+    {
+      "name": "thefork.ch",
+      "url": "https://www.thefork.ch/restaurant/le-chat-botte-hotel-beau-rivage-r30692?cc=18174-54f"
+    }
+  ]
+},
+{
+  "title": "Fiskebar",
+  "subTitle": null,
+  "price": "$$$",
+  "menu": "geneva-fiskebar.com",
+  "categoryName": "Fine dining restaurant",
+  "address": "Quai du Mont-Blanc 11, 1211 Genève, Switzerland",
+  "locatedIn": null,
+  "neighborhood": "Quai du Mont-Blanc 11",
+  "street": "Quai du Mont-Blanc 11",
+  "city": "Geneva",
+  "postalCode": "1211",
+  "state": null,
+  "countryCode": "CH",
+  "plusCode": "645X+39 Geneva, Switzerland",
+  "website": "http://www.geneva-fiskebar.com/",
+  "phone": "+41 22 909 60 71",
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "totalScore": 4.6,
+  "isAdvertisement": false,
+  "rank": 2,
+  "placeId": "ChIJxQVm6SVljEcRPEgr4MkXbdE",
+  "categories": [
+    "Fine dining restaurant"
+  ],
+  "cid": "15090744082205198396",
+  "url": "https://www.google.com/maps/place/Fiskebar/@46.2077437,6.1462573,17z/data=!3m1!4b1!4m5!3m4!1s0x478c6525e96605c5:0xd16d17c9e02b483c!8m2!3d46.207739!4d6.1484546?hl=en",
+  "searchPageUrl": "https://www.google.com/maps/search/restaurants+gen%C3%A8ve/@46.2067259,6.1440807,14z?hl=en",
+  "searchString": null,
+  "location": {
+    "lat": 46.207739,
+    "lng": 6.1484546
+  },
+  "scrapedAt": "2021-12-01T11:12:08.830Z",
+  "reviewsCount": 157,
+  "reviewsDistribution": {
+    "oneStar": 3,
+    "twoStar": 6,
+    "threeStar": 7,
+    "fourStar": 20,
+    "fiveStar": 121
+  },
+  "reviews": [],
+  "orderBy": []
+},
+{
+  "title": "Intensus",
+  "subTitle": null,
+  "price": null,
+  "menu": null,
+  "categoryName": "Fine dining restaurant",
+  "address": "Rue Argand 2, 1201 Genève, Switzerland",
+  "locatedIn": null,
+  "neighborhood": "Rue Argand 2",
+  "street": "Rue Argand 2",
+  "city": "Geneva",
+  "postalCode": "1201",
+  "state": null,
+  "countryCode": "CH",
+  "plusCode": "645R+5J Geneva, Switzerland",
+  "website": "http://www.intensus.ch/",
+  "phone": null,
+  "temporarilyClosed": false,
+  "permanentlyClosed": false,
+  "totalScore": 4.9,
+  "isAdvertisement": false,
+  "rank": 1,
+  "placeId": "ChIJpYyKhsRljEcRlYvSGoAma-Q",
+  "categories": [
+    "Fine dining restaurant",
+    "Restaurant"
+  ],
+  "cid": "16459291594803284885",
+  "url": "https://www.google.com/maps/place/Intensus/@46.2079346,6.1393978,17z/data=!3m1!4b1!4m5!3m4!1s0x478c65c4868a8ca5:0xe46b26801ad28b95!8m2!3d46.2079346!4d6.1415865?hl=en",
+  "searchPageUrl": "https://www.google.com/maps/search/restaurants+gen%C3%A8ve/@46.2067259,6.1440807,14z?hl=en",
+  "searchString": null,
+  "location": {
+    "lat": 46.2079346,
+    "lng": 6.1415865
+  },
+  "scrapedAt": "2021-12-01T11:12:15.781Z",
+  "reviewsCount": 59,
+  "reviewsDistribution": {
+    "oneStar": 1,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 4,
+    "fiveStar": 54
+  },
+  "reviews": [],
+  "orderBy": [
+    {
+      "name": "intensus.ch",
+      "url": "https://www.intensus.ch/booking"
+    }
+  ]
+}]

@@ -1,0 +1,105 @@
+:host {
+  display: block;
+
+  // categories items
+  .catList {
+    padding-bottom: 1.5rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    border-bottom: solid 1px #e0e0e0;
+
+    .imgCat {
+      cursor: pointer;
+      font-size: 14px;
+      font-weight: 400;
+
+      div {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: nowrap;
+        justify-content: center;
+        align-items: center;
+        align-content: center;
+
+        ion-img {
+          border-radius: 100%;
+          transition: all 120ms ease-in-out;
+          margin-bottom: .5rem;
+        }
+      }
+
+      ion-img {
+        max-width: 60px;
+        max-height: 60px;
+      }
+
+      &:hover {
+        ion-img {
+          background: #e0e0e0;
+        }
+      }
+    }
+  }
+
+  // restaurant items
+  .addsList {
+    margin-top: 2rem;
+      ion-col:first-of-type {
+      padding: 4rem 0rem;
+    }
+    h3 {
+      font-size: 36px;
+    }
+    ion-col {
+      div {
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        border-radius: 12px;
+        min-height: 170px;
+        position: relative;
+        overflow: hidden;
+
+        * {
+          position: relative;
+        }
+
+        h3 {
+          margin: 0;
+          padding: 0;
+          font-size: 1.7vw;
+          font-weight: 600;
+        }
+        span {
+          font-size: .8rem;
+        }
+        ion-text {
+          display: block;
+        }
+
+        .withMask {
+          position: absolute;
+          top: 0;
+          left: 0;
+          height: 100%;
+          width: 100%;
+          background: rgba(0, 0, 0, 0.6);
+        }
+      }
+    }
+  }
+
+
+  // main sticky section
+  .main {
+    
+    .stickyWrapper {
+      position: relative;
+
+      > div {
+        position: sticky;
+        top: 0;
+      }
+    }
+  }
+}
