@@ -23,7 +23,7 @@ export class HomePageComponent implements OnInit {
     {name: 'Italian', fileName: 'ubereats-icon-italian.png'},
   ];
   selectedCat!: string;
-  restaurants!: any[];
+  public restaurants!: any[];
   
 
   constructor(
@@ -31,11 +31,19 @@ export class HomePageComponent implements OnInit {
   ) { }
 
   ngOnInit(): void {
-    this.loadRestaurants();
+    this.restaurants = [];
+    this._api.getRestaurantsJsonData()
+    .then(result => {
+      console.log('ALL Data: ', result);
+      this.restaurants = result;
+    })
+    .catch(error => {
+      console.log('Error Getting Data: ', error)
+    })
   }
 
-  async loadRestaurants() {
+  /* async loadRestaurants() {
     this.restaurants = await this._api.getRestaurants();
-  }
+  } */
 
 }
