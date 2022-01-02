@@ -43,9 +43,54 @@
     <ion-grid class="main">
         <ion-row class="">
             <!-- filter section -->
-            <ion-col class="stickyWrapper">
+            <ion-col size="4" class="stickyWrapper">
                 <div>
-                    hi sticky!
+                    <form [formGroup]="form">
+                        <ion-label>
+                            {{ selectedCat ? selectedCat : 'All stores' }}
+                        </ion-label>
+                        <ion-list lines="none" class="ion-no-padding">
+                            <ion-radio-group formControlName="sortBy">
+                                <ion-list-header>
+                                    <ion-label>
+                                        Sort
+                                    </ion-label>
+                                </ion-list-header>
+                                <ion-item>
+                                    <ion-radio slot="start" value="picked"></ion-radio>
+                                    <ion-label>
+                                        Picked for you (default)
+                                    </ion-label>
+                                </ion-item>
+                                <ion-item>
+                                    <ion-radio slot="start" value="popular"></ion-radio>
+                                        <ion-label>
+                                            Most popular
+                                        </ion-label>
+                                </ion-item>
+                                <ion-item>
+                                    <ion-radio slot="start" value="rating"></ion-radio>
+                                        <ion-label>
+                                            Rating
+                                        </ion-label>
+                                </ion-item>
+                            </ion-radio-group>
+                            <ion-list-header class="ion-margin-top">
+                                <ion-label>
+                                    Max Delivery Fee
+                                </ion-label>
+                            </ion-list-header>
+                            <ion-item>
+                                <ion-range formControlName="maxFee" min="4" max="8" step="1" snaps="true" color="primary"></ion-range>
+                            </ion-item>
+                            <ion-row>
+                                <ion-col><small>CHF4</small></ion-col>
+                                <ion-col><small>CHF6</small></ion-col>
+                                <ion-col><small>CHF7</small></ion-col>
+                                <ion-col><small>CHF7+</small></ion-col>
+                            </ion-row>
+                        </ion-list>
+                    </form>
                 </div>
             </ion-col>
 
@@ -60,8 +105,8 @@
                         <ion-col 
                             size="12"
                             size-md="3"
-                            *ngFor="let item of restaurants?.slice(0, 4)">
-                            {{item|json}}
+                            *ngFor="let item of restaurants?.slice(0, 21)">
+                            <app-resto-card [item]="item"></app-resto-card>
                         </ion-col>
                     </ion-row>
 
@@ -70,17 +115,43 @@
                         <ion-col size="12" class="ion-padding-start ion-padding-botttom">
                             <ion-label>Today's offers</ion-label>
                         </ion-col>
+                        <ion-col size="12" size-md="4" *ngFor="let item of restaurants?.slice(4)">
+                            <app-resto-card [item]="item"></app-resto-card>
+                        </ion-col>
                     </ion-row>
 
-                    <!-- buy one, get one freee -->
-                    <ion-row></ion-row>
+                    <!-- Buy one, get one free -->
+                    <ion-row>
+                        <ion-col size="12" class="ion-padding-start ion-padding-bottom">
+                            <ion-label>Buy one, get one free</ion-label>
+                        </ion-col>
+                        <ion-col size="12" size-md="4" *ngFor="let item of restaurants?.slice(8, 12)">
+                            <app-resto-card [item]="item"></app-resto-card>
+                        </ion-col>
+                    </ion-row>
 
-                    <!-- explore by category -->
-                    <ion-row></ion-row>
+                    <!-- Explore by category -->
+                    <ion-row>
+                        <ion-col size="12" class="ion-padding-start">
+                            <ion-label>Explore by category</ion-label>
+                        </ion-col>
+                        <ion-col size="4" size-md="2" *ngFor="let cat of categories">
+                            <div>
+                                <ion-img [src]="'./assets/images/' + cat.fileName"></ion-img>
+                                <span>{{ cat.name }}</span>
+                            </div>
+                        </ion-col>
+                    </ion-row>
 
                     <!-- Popular near you -->
-                    <ion-row></ion-row>
-
+                    <ion-row>
+                        <ion-col size="12" class="ion-padding-bottom">
+                            <ion-label>Popular near you</ion-label>
+                        </ion-col>
+                        <ion-col size="12" size-md="4" *ngFor="let item of restaurants?.slice(12)">
+                            <app-resto-card [item]="item"></app-resto-card>
+                        </ion-col>
+                    </ion-row>
                 </ion-grid>
             </ion-col>
         </ion-row>

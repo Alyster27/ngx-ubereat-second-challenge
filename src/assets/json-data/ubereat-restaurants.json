@@ -1,0 +1,2111 @@
+[{
+  "id": "2542727",
+  "type": "RESTAURANT",
+  "name": "Le Bistroquet",
+  "awards": [
+    {
+      "year": "2018",
+      "name": "Attestation d'Excellence 2018"
+    },
+    {
+      "year": "2017",
+      "name": "Attestation d'Excellence 2017"
+    },
+    {
+      "year": "2016",
+      "name": "Attestation d'Excellence 2016"
+    },
+    {
+      "year": "2015",
+      "name": "Attestation d'Excellence 2015"
+    }
+  ],
+  "rankingPosition": "10",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": "5.0",
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+41 22 343 06 36",
+  "address": "Rue Caroline 10, Genève 1227 Suisse",
+  "email": "lebistroquetgeneve@gmail.com",
+  "cuisine": [
+    "Française",
+    "Européenne",
+    "Végétariens bienvenus"
+  ],
+  "mealTypes": [],
+  "hours": [
+    [
+      {
+        "open": 720,
+        "close": 840
+      }
+    ],
+    [],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ]
+  ],
+  "latitude": "46.191338",
+  "longitude": "6.138453",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g188057-d2542727-Reviews-Le_Bistroquet-Geneva.html",
+  "website": "http://lebistroquet-geneve.ch/",
+  "rankingDenominator": "1597",
+  "rankingString": "Nº 10 sur 1 652 Restaurants à Genève",
+  "numberOfReviews": "149",
+  "reviewsCount": 0,
+  "reviews": [],
+  "reviewTags": []
+},
+{
+  "id": "18930037",
+  "type": "RESTAURANT",
+  "name": "Spinella Restaurant & Bar",
+  "awards": [
+    {
+      "year": "2021",
+      "name": "Attestation d'Excellence 2021"
+    }
+  ],
+  "rankingPosition": "3",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": "5.0",
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+41 22 503 41 86",
+  "address": "rue Liotard 4, Genève 1202 Suisse",
+  "email": "info@spinella.ch",
+  "cuisine": [
+    "Italienne",
+    "Européenne",
+    "Sicilienne",
+    "Italie du Sud",
+    "Végétariens bienvenus"
+  ],
+  "mealTypes": [],
+  "hours": [
+    [],
+    [
+      {
+        "open": 600,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 600,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 600,
+        "close": 1560
+      }
+    ],
+    [
+      {
+        "open": 600,
+        "close": 1560
+      }
+    ],
+    [
+      {
+        "open": 600,
+        "close": 1560
+      }
+    ],
+    [
+      {
+        "open": 1020,
+        "close": 1440
+      }
+    ]
+  ],
+  "latitude": "46.209415",
+  "longitude": "6.134733",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g188057-d18930037-Reviews-Spinella_Restaurant_Bar-Geneva.html",
+  "website": "http://www.spinella.ch",
+  "rankingDenominator": "1597",
+  "rankingString": "Nº 3 sur 1 652 Restaurants à Genève",
+  "numberOfReviews": "117",
+  "reviewsCount": 0,
+  "reviews": [],
+  "reviewTags": []
+},
+{
+  "id": "697864",
+  "type": "RESTAURANT",
+  "name": "Le Chat-Botté",
+  "awards": [
+    {
+      "year": "2021",
+      "name": "Travellers' Choice 2021"
+    },
+    {
+      "year": "2021",
+      "name": "Attestation d'Excellence 2021"
+    },
+    {
+      "year": "2020",
+      "name": "Attestation d'Excellence 2020"
+    },
+    {
+      "year": "2019",
+      "name": "Attestation d'Excellence 2019"
+    },
+    {
+      "year": "2018",
+      "name": "Attestation d'Excellence 2018"
+    },
+    {
+      "year": "2017",
+      "name": "Attestation d'Excellence 2017"
+    },
+    {
+      "year": "2016",
+      "name": "Attestation d'Excellence 2016"
+    },
+    {
+      "year": "2015",
+      "name": "Attestation d'Excellence 2015"
+    },
+    {
+      "year": "2014",
+      "name": "Attestation d'Excellence 2014"
+    },
+    {
+      "year": "2013",
+      "name": "Attestation d'Excellence 2013"
+    }
+  ],
+  "rankingPosition": "8",
+  "priceLevel": "€€€€",
+  "category": "restaurant",
+  "rating": "4.5",
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+41 22 716 69 20",
+  "address": "Quai du Mont Blanc 13, Genève 1201 Suisse",
+  "email": "restauration@beau-rivage.ch",
+  "cuisine": [
+    "Française",
+    "Européenne",
+    "Végétariens bienvenus",
+    "Choix végétaliens",
+    "Plats sans gluten"
+  ],
+  "mealTypes": [],
+  "hours": [
+    [],
+    [],
+    [
+      {
+        "open": 720,
+        "close": 810
+      },
+      {
+        "open": 1140,
+        "close": 1290
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 810
+      },
+      {
+        "open": 1140,
+        "close": 1290
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 810
+      },
+      {
+        "open": 1140,
+        "close": 1290
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 810
+      },
+      {
+        "open": 1140,
+        "close": 1290
+      }
+    ],
+    [
+      {
+        "open": 1140,
+        "close": 1290
+      }
+    ]
+  ],
+  "latitude": "46.209137",
+  "longitude": "6.15005",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g188057-d697864-Reviews-Le_Chat_Botte-Geneva.html",
+  "website": "http://www.beau-rivage.ch/en/le-chat-botte-restaurant.html",
+  "rankingDenominator": "1597",
+  "rankingString": "Nº 8 sur 1 652 Restaurants à Genève",
+  "numberOfReviews": "484",
+  "reviewsCount": 0,
+  "reviews": [],
+  "reviewTags": []
+},
+{
+  "id": "15519418",
+  "type": "RESTAURANT",
+  "name": "Restaurant Le Safran",
+  "awards": [
+    {
+      "year": "2020",
+      "name": "Attestation d'Excellence 2020"
+    }
+  ],
+  "rankingPosition": "9",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": "4.5",
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+41 22 436 87 63",
+  "address": "Boulevard Carl-Vogt 62, Genève 1205 Suisse",
+  "email": "safrangeneva@gmail.com",
+  "cuisine": [
+    "Indienne",
+    "Asiatique",
+    "Saine",
+    "Végétariens bienvenus",
+    "Choix végétaliens",
+    "Plats sans gluten"
+  ],
+  "mealTypes": [],
+  "hours": [
+    [
+      {
+        "open": 690,
+        "close": 870
+      },
+      {
+        "open": 1080,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 690,
+        "close": 870
+      },
+      {
+        "open": 1080,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 690,
+        "close": 870
+      },
+      {
+        "open": 1080,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 690,
+        "close": 870
+      },
+      {
+        "open": 1080,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 690,
+        "close": 870
+      },
+      {
+        "open": 1080,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 690,
+        "close": 870
+      },
+      {
+        "open": 1080,
+        "close": 1350
+      }
+    ],
+    []
+  ],
+  "latitude": "46.19782",
+  "longitude": "6.13616",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g188057-d15519418-Reviews-Restaurant_Le_Safran-Geneva.html",
+  "website": "https://www.safrangeneve.ch/",
+  "rankingDenominator": "1597",
+  "rankingString": "Nº 9 sur 1 652 Restaurants à Genève",
+  "numberOfReviews": "124",
+  "reviewsCount": 0,
+  "reviews": [],
+  "reviewTags": []
+},
+{
+  "id": "17613868",
+  "type": "RESTAURANT",
+  "name": "L'Agape",
+  "awards": [
+    {
+      "year": "2021",
+      "name": "Attestation d'Excellence 2021"
+    }
+  ],
+  "rankingPosition": "4",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": "5.0",
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+41 22 343 12 98",
+  "address": "rue Caroline 11, Genève 1227 Suisse",
+  "email": "contact@lagape.ch",
+  "cuisine": [
+    "Française",
+    "Internationale",
+    "Diner",
+    "Européenne",
+    "Saine",
+    "Moderne"
+  ],
+  "mealTypes": [],
+  "hours": [
+    [],
+    [
+      {
+        "open": 540,
+        "close": 1020
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ]
+  ],
+  "latitude": "46.191532",
+  "longitude": "6.138748",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g188057-d17613868-Reviews-L_Agape-Geneva.html",
+  "website": "http://www.lagape.ch",
+  "rankingDenominator": "1597",
+  "rankingString": "Nº 4 sur 1 652 Restaurants à Genève",
+  "numberOfReviews": "99",
+  "reviewsCount": 0,
+  "reviews": [],
+  "reviewTags": []
+},
+{
+  "id": "11046292",
+  "type": "RESTAURANT",
+  "name": "L'Aparté",
+  "awards": [
+    {
+      "year": "2021",
+      "name": "Attestation d'Excellence 2021"
+    },
+    {
+      "year": "2020",
+      "name": "Attestation d'Excellence 2020"
+    },
+    {
+      "year": "2019",
+      "name": "Attestation d'Excellence 2019"
+    },
+    {
+      "year": "2018",
+      "name": "Attestation d'Excellence 2018"
+    }
+  ],
+  "rankingPosition": "2",
+  "priceLevel": "€€€€",
+  "category": "restaurant",
+  "rating": "5.0",
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+41 22 906 14 60",
+  "address": "Rue de Lausanne 41-43, Genève 1201 Suisse",
+  "email": "royal@manotel.com",
+  "cuisine": [
+    "Française",
+    "Européenne",
+    "Diner",
+    "Végétariens bienvenus",
+    "Choix végétaliens",
+    "Plats sans gluten"
+  ],
+  "mealTypes": [],
+  "hours": [
+    [],
+    [
+      {
+        "open": 720,
+        "close": 855
+      },
+      {
+        "open": 1140,
+        "close": 1335
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 855
+      },
+      {
+        "open": 1140,
+        "close": 1335
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 855
+      },
+      {
+        "open": 1140,
+        "close": 1335
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 855
+      },
+      {
+        "open": 1140,
+        "close": 1335
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 855
+      },
+      {
+        "open": 1140,
+        "close": 1335
+      }
+    ],
+    []
+  ],
+  "latitude": "46.213528",
+  "longitude": "6.145502",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g188057-d11046292-Reviews-L_Aparte-Geneva.html",
+  "website": "http://www.hotelroyalgeneva.com/en/restaurants-bar/laparte/",
+  "rankingDenominator": "1597",
+  "rankingString": "Nº 2 sur 1 652 Restaurants à Genève",
+  "numberOfReviews": "137",
+  "reviewsCount": 0,
+  "reviews": [],
+  "reviewTags": []
+},
+{
+  "id": "2618233",
+  "type": "RESTAURANT",
+  "name": "Café de la Place",
+  "awards": [
+    {
+      "year": "2021",
+      "name": "Attestation d'Excellence 2021"
+    },
+    {
+      "year": "2020",
+      "name": "Attestation d'Excellence 2020"
+    },
+    {
+      "year": "2019",
+      "name": "Attestation d'Excellence 2019"
+    },
+    {
+      "year": "2018",
+      "name": "Attestation d'Excellence 2018"
+    },
+    {
+      "year": "2017",
+      "name": "Attestation d'Excellence 2017"
+    },
+    {
+      "year": "2016",
+      "name": "Attestation d'Excellence 2016"
+    },
+    {
+      "year": "2015",
+      "name": "Attestation d'Excellence 2015"
+    }
+  ],
+  "rankingPosition": "7",
+  "priceLevel": "€€€€",
+  "category": "restaurant",
+  "rating": "4.5",
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+41 22 794 96 98",
+  "address": "route de Saint-Julien 143, Plan Les Ouates, Genève 1228 Suisse",
+  "email": "info@restaurantlaplace.ch",
+  "cuisine": [
+    "Française",
+    "Européenne",
+    "Végétariens bienvenus"
+  ],
+  "mealTypes": [],
+  "hours": [
+    [],
+    [
+      {
+        "open": 0,
+        "close": 1439
+      }
+    ],
+    [
+      {
+        "open": 0,
+        "close": 1439
+      }
+    ],
+    [
+      {
+        "open": 0,
+        "close": 1439
+      }
+    ],
+    [
+      {
+        "open": 0,
+        "close": 1439
+      }
+    ],
+    [
+      {
+        "open": 0,
+        "close": 1439
+      }
+    ],
+    []
+  ],
+  "latitude": "46.16828",
+  "longitude": "6.117956",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g1096098-d2618233-Reviews-Cafe_de_la_Place-Plan_Les_Ouates_Geneva.html",
+  "website": "http://www.restaurant-laplace.ch",
+  "rankingDenominator": "1597",
+  "rankingString": "Nº 7 sur 1 652 Restaurants à Genève",
+  "numberOfReviews": "215",
+  "reviewsCount": 0,
+  "reviews": [],
+  "reviewTags": []
+},
+{
+  "id": "2437056",
+  "type": "RESTAURANT",
+  "name": "Bayview",
+  "awards": [
+    {
+      "year": "2020",
+      "name": "Attestation d'Excellence 2020"
+    },
+    {
+      "year": "2019",
+      "name": "Attestation d'Excellence 2019"
+    },
+    {
+      "year": "2018",
+      "name": "Attestation d'Excellence 2018"
+    },
+    {
+      "year": "2017",
+      "name": "Attestation d'Excellence 2017"
+    },
+    {
+      "year": "2016",
+      "name": "Attestation d'Excellence 2016"
+    },
+    {
+      "year": "2015",
+      "name": "Attestation d'Excellence 2015"
+    },
+    {
+      "year": "2014",
+      "name": "Attestation d'Excellence 2014"
+    }
+  ],
+  "rankingPosition": "6",
+  "priceLevel": "€€€€",
+  "category": "restaurant",
+  "rating": "4.5",
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+41 22 906 65 52",
+  "address": "47 Quai Wilson, Genève 1211 Suisse",
+  "email": "bayview@hotelpwilson.com",
+  "cuisine": [
+    "Française",
+    "Européenne",
+    "Végétariens bienvenus",
+    "Choix végétaliens",
+    "Plats sans gluten"
+  ],
+  "mealTypes": [],
+  "hours": [
+    [],
+    [],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ]
+  ],
+  "latitude": "46.21411",
+  "longitude": "6.151803",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g188057-d2437056-Reviews-Bayview-Geneva.html",
+  "website": "http://www.restaurantbayview.com/",
+  "rankingDenominator": "1597",
+  "rankingString": "Nº 6 sur 1 652 Restaurants à Genève",
+  "numberOfReviews": "546",
+  "reviewsCount": 0,
+  "reviews": [],
+  "reviewTags": []
+},
+{
+  "id": "12907952",
+  "type": "RESTAURANT",
+  "name": "Fiskebar",
+  "awards": [
+    {
+      "year": "2021",
+      "name": "Attestation d'Excellence 2021"
+    },
+    {
+      "year": "2020",
+      "name": "Attestation d'Excellence 2020"
+    },
+    {
+      "year": "2019",
+      "name": "Attestation d'Excellence 2019"
+    }
+  ],
+  "rankingPosition": "5",
+  "priceLevel": "€€€€",
+  "category": "restaurant",
+  "rating": "5.0",
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+41 22 909 60 71",
+  "address": "Quai du Mont-Blanc 11 The Ritz-Carlton Hotel de la Paix, Genève 1201 Suisse",
+  "email": "geneva.fiskebar@ritzcarlton.com",
+  "cuisine": [
+    "Fruits de mer & Poisson",
+    "Européenne",
+    "Saine",
+    "Suédoise",
+    "Scandinave",
+    "Norvégienne",
+    "Végétariens bienvenus",
+    "Plats sans gluten"
+  ],
+  "mealTypes": [],
+  "hours": [
+    [],
+    [],
+    [
+      {
+        "open": 1110,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 1110,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 1110,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 1110,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 1110,
+        "close": 1380
+      }
+    ]
+  ],
+  "latitude": "46.20776",
+  "longitude": "6.148488",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g188057-d12907952-Reviews-Fiskebar-Geneva.html",
+  "website": "http://www.geneva-fiskebar.com",
+  "rankingDenominator": "1597",
+  "rankingString": "Nº 5 sur 1 652 Restaurants à Genève",
+  "numberOfReviews": "491",
+  "reviewsCount": 0,
+  "reviews": [],
+  "reviewTags": []
+},
+{
+  "id": "12173937",
+  "type": "RESTAURANT",
+  "name": "Intensus",
+  "awards": [
+    {
+      "year": "2018",
+      "name": "Attestation d'Excellence 2018"
+    }
+  ],
+  "rankingPosition": "1",
+  "priceLevel": "€€€€",
+  "category": "restaurant",
+  "rating": "5.0",
+  "isClosed": false,
+  "isLongClosed": false,
+  "address": "Rue du Mont-Blanc 7 Rue du Mont-Blanc 7, Genève 1201 Suisse",
+  "email": "booking@intensus.ch",
+  "cuisine": [
+    "Européenne",
+    "Moderne",
+    "Française",
+    "Végétariens bienvenus"
+  ],
+  "mealTypes": [],
+  "hours": [
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "open": 1170,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 1170,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 1170,
+        "close": 1380
+      }
+    ]
+  ],
+  "latitude": "46.20778",
+  "longitude": "6.145995",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g188057-d12173937-Reviews-Intensus-Geneva.html",
+  "website": "http://www.intensus.ch/",
+  "rankingDenominator": "1597",
+  "rankingString": "Nº 1 sur 1 652 Restaurants à Genève",
+  "numberOfReviews": "111",
+  "reviewsCount": 0,
+  "reviews": [],
+  "reviewTags": []
+},
+{
+  "id": "12006452",
+  "type": "RESTAURANT",
+  "name": "Living Room Bar & Kitchen",
+  "awards": [
+    {
+      "year": "2020",
+      "name": "Attestation d'Excellence 2020"
+    },
+    {
+      "year": "2019",
+      "name": "Attestation d'Excellence 2019"
+    },
+    {
+      "year": "2018",
+      "name": "Attestation d'Excellence 2018"
+    }
+  ],
+  "rankingPosition": "12",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": "4.5",
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+41 22 909 60 65",
+  "address": "Quai du Mont Blanc 11 Hotel De La Paix, Genève 1201 Suisse",
+  "email": "livingroom.geneva@ritzcarlton.com",
+  "cuisine": [
+    "Française",
+    "Internationale",
+    "Européenne",
+    "Végétariens bienvenus",
+    "Choix végétaliens",
+    "Plats sans gluten"
+  ],
+  "mealTypes": [],
+  "hours": [
+    [
+      {
+        "open": 660,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 420,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 420,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 420,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 420,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 420,
+        "close": 1440
+      }
+    ],
+    [
+      {
+        "open": 660,
+        "close": 1440
+      }
+    ]
+  ],
+  "latitude": "46.207825",
+  "longitude": "6.148612",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g188057-d12006452-Reviews-Living_Room_Bar_Kitchen-Geneva.html",
+  "website": "http://www.livingroombarandkitchen.com/",
+  "rankingDenominator": "1597",
+  "rankingString": "Nº 11 sur 1 652 Restaurants à Genève",
+  "numberOfReviews": "362",
+  "reviewsCount": 0,
+  "reviews": [],
+  "reviewTags": []
+},
+{
+  "id": "2524789",
+  "type": "RESTAURANT",
+  "name": "La Cantine des Commerçants",
+  "awards": [
+    {
+      "year": "2021",
+      "name": "Attestation d'Excellence 2021"
+    },
+    {
+      "year": "2020",
+      "name": "Attestation d'Excellence 2020"
+    },
+    {
+      "year": "2019",
+      "name": "Attestation d'Excellence 2019"
+    },
+    {
+      "year": "2018",
+      "name": "Attestation d'Excellence 2018"
+    },
+    {
+      "year": "2017",
+      "name": "Attestation d'Excellence 2017"
+    },
+    {
+      "year": "2016",
+      "name": "Attestation d'Excellence 2016"
+    }
+  ],
+  "rankingPosition": "15",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": "4.5",
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+41 22 328 16 70",
+  "address": "Boulevard Carl-Vogt 29 Geneve, Genève 1205 Suisse",
+  "email": "contact@lacantine.ch",
+  "cuisine": [
+    "Française",
+    "Végétariens bienvenus",
+    "Choix végétaliens"
+  ],
+  "mealTypes": [],
+  "hours": [
+    [],
+    [
+      {
+        "open": 720,
+        "close": 840
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 1140,
+        "close": 1380
+      }
+    ]
+  ],
+  "latitude": "46.19967",
+  "longitude": "6.133061",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g188057-d2524789-Reviews-La_Cantine_des_Commercants-Geneva.html",
+  "website": "http://www.lacantine.ch/",
+  "rankingDenominator": "1597",
+  "rankingString": "Nº 14 sur 1 652 Restaurants à Genève",
+  "numberOfReviews": "309",
+  "reviewsCount": 0,
+  "reviews": [],
+  "reviewTags": []
+},
+{
+  "id": "3380292",
+  "type": "RESTAURANT",
+  "name": "ArtyGlaces",
+  "awards": [
+    {
+      "year": "2019",
+      "name": "Attestation d'Excellence 2019"
+    },
+    {
+      "year": "2017",
+      "name": "Attestation d'Excellence 2017"
+    },
+    {
+      "year": "2016",
+      "name": "Attestation d'Excellence 2016"
+    },
+    {
+      "year": "2015",
+      "name": "Attestation d'Excellence 2015"
+    }
+  ],
+  "rankingPosition": "11",
+  "priceLevel": "€",
+  "category": "restaurant",
+  "rating": "5.0",
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+41 22 321 00 76",
+  "address": "rue du Vélodrome, 4, Genève 1205 Suisse",
+  "email": "info@artyglaces.ch",
+  "cuisine": [
+    "Italienne",
+    "Saine",
+    "Végétariens bienvenus",
+    "Choix végétaliens",
+    "Plats sans gluten"
+  ],
+  "mealTypes": [],
+  "hours": [
+    [],
+    [],
+    [
+      {
+        "open": 780,
+        "close": 1110
+      }
+    ],
+    [
+      {
+        "open": 780,
+        "close": 1110
+      }
+    ],
+    [
+      {
+        "open": 780,
+        "close": 1110
+      }
+    ],
+    [
+      {
+        "open": 780,
+        "close": 1110
+      }
+    ],
+    []
+  ],
+  "latitude": "46.200153",
+  "longitude": "6.130533",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g188057-d3380292-Reviews-ArtyGlaces-Geneva.html",
+  "website": "http://www.artyglaces.ch/",
+  "rankingDenominator": "1597",
+  "rankingString": "Nº 1 sur 41 Desserts à Genève",
+  "numberOfReviews": "177",
+  "reviewsCount": 0,
+  "reviews": [],
+  "reviewTags": []
+},
+{
+  "id": "1308582",
+  "type": "RESTAURANT",
+  "name": "Le Thermometre",
+  "awards": [
+    {
+      "year": "2020",
+      "name": "Attestation d'Excellence 2020"
+    },
+    {
+      "year": "2019",
+      "name": "Attestation d'Excellence 2019"
+    },
+    {
+      "year": "2018",
+      "name": "Attestation d'Excellence 2018"
+    },
+    {
+      "year": "2017",
+      "name": "Attestation d'Excellence 2017"
+    },
+    {
+      "year": "2016",
+      "name": "Attestation d'Excellence 2016"
+    },
+    {
+      "year": "2015",
+      "name": "Attestation d'Excellence 2015"
+    }
+  ],
+  "rankingPosition": "13",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": "4.5",
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+41 22 310 25 35",
+  "address": "rue Neuve-du-Molard 22, Genève 1204 Suisse",
+  "cuisine": [
+    "Française",
+    "Suisse",
+    "Européenne",
+    "Végétariens bienvenus"
+  ],
+  "mealTypes": [],
+  "hours": [
+    [],
+    [
+      {
+        "open": 420,
+        "close": 1290
+      }
+    ],
+    [
+      {
+        "open": 420,
+        "close": 1290
+      }
+    ],
+    [
+      {
+        "open": 420,
+        "close": 1290
+      }
+    ],
+    [
+      {
+        "open": 420,
+        "close": 1290
+      }
+    ],
+    [
+      {
+        "open": 420,
+        "close": 1290
+      }
+    ],
+    []
+  ],
+  "latitude": "46.20328",
+  "longitude": "6.149667",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g188057-d1308582-Reviews-Le_Thermometre-Geneva.html",
+  "website": "http://www.thefork.ch/restaurant/le-thermometre-r21185",
+  "rankingDenominator": "1597",
+  "rankingString": "Nº 12 sur 1 652 Restaurants à Genève",
+  "numberOfReviews": "263",
+  "reviewsCount": 0,
+  "reviews": [],
+  "reviewTags": []
+},
+{
+  "id": "1045004",
+  "type": "RESTAURANT",
+  "name": "Milan",
+  "awards": [
+    {
+      "year": "2020",
+      "name": "Attestation d'Excellence 2020"
+    },
+    {
+      "year": "2019",
+      "name": "Attestation d'Excellence 2019"
+    },
+    {
+      "year": "2018",
+      "name": "Attestation d'Excellence 2018"
+    },
+    {
+      "year": "2017",
+      "name": "Attestation d'Excellence 2017"
+    },
+    {
+      "year": "2016",
+      "name": "Attestation d'Excellence 2016"
+    },
+    {
+      "year": "2015",
+      "name": "Attestation d'Excellence 2015"
+    },
+    {
+      "year": "2014",
+      "name": "Attestation d'Excellence 2014"
+    }
+  ],
+  "rankingPosition": "20",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": "4.5",
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+41 22 732 46 65",
+  "address": "rue Chaponniere 9, Genève 1201 Suisse",
+  "email": "info@lemilan.com",
+  "cuisine": [
+    "Française",
+    "Italienne",
+    "Méditerranéenne",
+    "Européenne",
+    "Végétariens bienvenus",
+    "Choix végétaliens",
+    "Plats sans gluten"
+  ],
+  "mealTypes": [],
+  "hours": [
+    [],
+    [
+      {
+        "open": 705,
+        "close": 870
+      },
+      {
+        "open": 1095,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 705,
+        "close": 870
+      },
+      {
+        "open": 1095,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 705,
+        "close": 870
+      },
+      {
+        "open": 1095,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 705,
+        "close": 870
+      },
+      {
+        "open": 1095,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 705,
+        "close": 870
+      },
+      {
+        "open": 1095,
+        "close": 1320
+      }
+    ],
+    []
+  ],
+  "latitude": "46.209595",
+  "longitude": "6.144828",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g188057-d1045004-Reviews-Milan-Geneva.html",
+  "website": "http://www.lemilan.com",
+  "rankingDenominator": "1597",
+  "rankingString": "Nº 19 sur 1 652 Restaurants à Genève",
+  "numberOfReviews": "418",
+  "reviewsCount": 0,
+  "reviews": [],
+  "reviewTags": []
+},
+{
+  "id": "697832",
+  "type": "RESTAURANT",
+  "name": "Bistrot du Boeuf Rouge",
+  "awards": [
+    {
+      "year": "2021",
+      "name": "Attestation d'Excellence 2021"
+    },
+    {
+      "year": "2020",
+      "name": "Attestation d'Excellence 2020"
+    },
+    {
+      "year": "2019",
+      "name": "Attestation d'Excellence 2019"
+    },
+    {
+      "year": "2018",
+      "name": "Attestation d'Excellence 2018"
+    },
+    {
+      "year": "2017",
+      "name": "Attestation d'Excellence 2017"
+    },
+    {
+      "year": "2016",
+      "name": "Attestation d'Excellence 2016"
+    },
+    {
+      "year": "2015",
+      "name": "Attestation d'Excellence 2015"
+    },
+    {
+      "year": "2014",
+      "name": "Attestation d'Excellence 2014"
+    },
+    {
+      "year": "2013",
+      "name": "Attestation d'Excellence 2013"
+    },
+    {
+      "year": "2012",
+      "name": "Attestation d'Excellence 2012"
+    }
+  ],
+  "rankingPosition": "14",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": "4.5",
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+41 22 732 75 37",
+  "address": "rue Dr-Alfred-Vincent 17, Genève 1201 Suisse",
+  "cuisine": [
+    "Française",
+    "Végétariens bienvenus",
+    "Plats sans gluten"
+  ],
+  "mealTypes": [],
+  "hours": [
+    [],
+    [
+      {
+        "open": 705,
+        "close": 915
+      },
+      {
+        "open": 1125,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 705,
+        "close": 915
+      },
+      {
+        "open": 1125,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 705,
+        "close": 915
+      },
+      {
+        "open": 1125,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 705,
+        "close": 915
+      },
+      {
+        "open": 1125,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 705,
+        "close": 915
+      },
+      {
+        "open": 1125,
+        "close": 1380
+      }
+    ],
+    []
+  ],
+  "latitude": "46.210037",
+  "longitude": "6.148291",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g188057-d697832-Reviews-Bistrot_du_Boeuf_Rouge-Geneva.html",
+  "website": "http://www.boeufrouge.ch/",
+  "rankingDenominator": "1597",
+  "rankingString": "Nº 13 sur 1 652 Restaurants à Genève",
+  "numberOfReviews": "727",
+  "reviewsCount": 0,
+  "reviews": [],
+  "reviewTags": []
+},
+{
+  "id": "697855",
+  "type": "RESTAURANT",
+  "name": "L'Arabesque",
+  "awards": [
+    {
+      "year": "2020",
+      "name": "Attestation d'Excellence 2020"
+    },
+    {
+      "year": "2019",
+      "name": "Attestation d'Excellence 2019"
+    },
+    {
+      "year": "2018",
+      "name": "Attestation d'Excellence 2018"
+    },
+    {
+      "year": "2017",
+      "name": "Attestation d'Excellence 2017"
+    },
+    {
+      "year": "2016",
+      "name": "Attestation d'Excellence 2016"
+    },
+    {
+      "year": "2015",
+      "name": "Attestation d'Excellence 2015"
+    },
+    {
+      "year": "2014",
+      "name": "Attestation d'Excellence 2014"
+    },
+    {
+      "year": "2012",
+      "name": "Attestation d'Excellence 2012"
+    }
+  ],
+  "rankingPosition": "19",
+  "priceLevel": "€€€€",
+  "category": "restaurant",
+  "rating": "4.5",
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+41 22 906 67 63",
+  "address": "quai Wilson 47, Genève 1201 Suisse",
+  "email": "arabesque@hotelpwilson.com",
+  "cuisine": [
+    "Libanaise",
+    "Méditerranéenne",
+    "Moyen-Orient",
+    "Végétariens bienvenus",
+    "Choix végétaliens",
+    "Halal"
+  ],
+  "mealTypes": [],
+  "hours": [
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1140,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1140,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1140,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1140,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1140,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1140,
+        "close": 1380
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1140,
+        "close": 1380
+      }
+    ]
+  ],
+  "latitude": "46.214096",
+  "longitude": "6.151697",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g188057-d697855-Reviews-L_Arabesque-Geneva.html",
+  "website": "http://www.restaurantarabesque.com/",
+  "rankingDenominator": "1597",
+  "rankingString": "Nº 18 sur 1 652 Restaurants à Genève",
+  "numberOfReviews": "346",
+  "reviewsCount": 0,
+  "reviews": [],
+  "reviewTags": []
+},
+{
+  "id": "5049938",
+  "type": "RESTAURANT",
+  "name": "Izumi",
+  "awards": [
+    {
+      "year": "2020",
+      "name": "Attestation d'Excellence 2020"
+    },
+    {
+      "year": "2019",
+      "name": "Attestation d'Excellence 2019"
+    },
+    {
+      "year": "2018",
+      "name": "Attestation d'Excellence 2018"
+    },
+    {
+      "year": "2017",
+      "name": "Attestation d'Excellence 2017"
+    },
+    {
+      "year": "2016",
+      "name": "Attestation d'Excellence 2016"
+    },
+    {
+      "year": "2015",
+      "name": "Attestation d'Excellence 2015"
+    }
+  ],
+  "rankingPosition": "16",
+  "priceLevel": "€€€€",
+  "category": "restaurant",
+  "rating": "4.5",
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+41 22 908 75 25",
+  "address": "quai des Bergues 33, Genève 1201 Suisse",
+  "email": "izumi.gen@fourseasons.com",
+  "cuisine": [
+    "Japonaise",
+    "Asiatique",
+    "Végétariens bienvenus",
+    "Choix végétaliens",
+    "Plats sans gluten"
+  ],
+  "mealTypes": [],
+  "hours": [
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1140,
+        "close": 1260
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1140,
+        "close": 1260
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1140,
+        "close": 1260
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1140,
+        "close": 1260
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1140,
+        "close": 1260
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1140,
+        "close": 1260
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1140,
+        "close": 1260
+      }
+    ]
+  ],
+  "latitude": "46.207005",
+  "longitude": "6.146883",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g188057-d5049938-Reviews-Izumi-Geneva.html",
+  "website": "http://www.fourseasons.com/geneva/dining/restaurants/izumi/",
+  "rankingDenominator": "1597",
+  "rankingString": "Nº 15 sur 1 652 Restaurants à Genève",
+  "numberOfReviews": "694",
+  "reviewsCount": 0,
+  "reviews": [],
+  "reviewTags": []
+},
+{
+  "id": "3707093",
+  "type": "RESTAURANT",
+  "name": "INGLEWOOD Eaux-Vives",
+  "awards": [
+    {
+      "year": "2020",
+      "name": "Attestation d'Excellence 2020"
+    },
+    {
+      "year": "2019",
+      "name": "Attestation d'Excellence 2019"
+    },
+    {
+      "year": "2018",
+      "name": "Attestation d'Excellence 2018"
+    },
+    {
+      "year": "2017",
+      "name": "Attestation d'Excellence 2017"
+    },
+    {
+      "year": "2016",
+      "name": "Attestation d'Excellence 2016"
+    },
+    {
+      "year": "2015",
+      "name": "Attestation d'Excellence 2015"
+    }
+  ],
+  "rankingPosition": "18",
+  "priceLevel": "€€ - €€€",
+  "category": "restaurant",
+  "rating": "4.5",
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+41 22 700 27 85",
+  "address": "5, Avenue de Frontenex, Genève 1207 Suisse",
+  "email": "inglewood.burgers@gmail.com",
+  "cuisine": [
+    "Américaine",
+    "Végétariens bienvenus"
+  ],
+  "mealTypes": [],
+  "hours": [
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1110,
+        "close": 1290
+      }
+    ],
+    [
+      {
+        "open": 690,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 690,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 690,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 690,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 690,
+        "close": 840
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ],
+    [
+      {
+        "open": 720,
+        "close": 870
+      },
+      {
+        "open": 1140,
+        "close": 1320
+      }
+    ]
+  ],
+  "latitude": "46.201935",
+  "longitude": "6.157083",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g188057-d3707093-Reviews-Inglewood_Eaux_Vives-Geneva.html",
+  "website": "http://www.inglewood.ch",
+  "rankingDenominator": "1597",
+  "rankingString": "Nº 17 sur 1 652 Restaurants à Genève",
+  "numberOfReviews": "360",
+  "reviewsCount": 0,
+  "reviews": [],
+  "reviewTags": []
+},
+{
+  "id": "785019",
+  "type": "RESTAURANT",
+  "name": "Il Lago at The Four Seasons Hotel",
+  "awards": [
+    {
+      "year": "2020",
+      "name": "Attestation d'Excellence 2020"
+    },
+    {
+      "year": "2019",
+      "name": "Attestation d'Excellence 2019"
+    },
+    {
+      "year": "2018",
+      "name": "Attestation d'Excellence 2018"
+    },
+    {
+      "year": "2017",
+      "name": "Attestation d'Excellence 2017"
+    },
+    {
+      "year": "2016",
+      "name": "Attestation d'Excellence 2016"
+    },
+    {
+      "year": "2015",
+      "name": "Attestation d'Excellence 2015"
+    },
+    {
+      "year": "2014",
+      "name": "Attestation d'Excellence 2014"
+    },
+    {
+      "year": "2013",
+      "name": "Attestation d'Excellence 2013"
+    }
+  ],
+  "rankingPosition": "17",
+  "priceLevel": "€€€€",
+  "category": "restaurant",
+  "rating": "4.5",
+  "isClosed": false,
+  "isLongClosed": false,
+  "phone": "+41 22 908 70 00",
+  "address": "quai des Bergues 33, Genève 1201 Suisse",
+  "cuisine": [
+    "Italienne",
+    "Méditerranéenne",
+    "Européenne",
+    "Moderne",
+    "Végétariens bienvenus",
+    "Choix végétaliens",
+    "Plats sans gluten"
+  ],
+  "mealTypes": [],
+  "hours": [
+    [
+      {
+        "open": 420,
+        "close": 870
+      },
+      {
+        "open": 1140,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 390,
+        "close": 870
+      },
+      {
+        "open": 1140,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 390,
+        "close": 870
+      },
+      {
+        "open": 1140,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 390,
+        "close": 870
+      },
+      {
+        "open": 1140,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 390,
+        "close": 870
+      },
+      {
+        "open": 1140,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 390,
+        "close": 870
+      },
+      {
+        "open": 1140,
+        "close": 1350
+      }
+    ],
+    [
+      {
+        "open": 420,
+        "close": 870
+      },
+      {
+        "open": 1140,
+        "close": 1350
+      }
+    ]
+  ],
+  "latitude": "46.206684",
+  "longitude": "6.146718",
+  "webUrl": "https://www.tripadvisor.fr/Restaurant_Review-g188057-d785019-Reviews-Il_Lago_at_The_Four_Seasons_Hotel-Geneva.html",
+  "website": "http://www.fourseasons.com/fr/geneva/dining/restaurants/il_lago/",
+  "rankingDenominator": "1597",
+  "rankingString": "Nº 16 sur 1 652 Restaurants à Genève",
+  "numberOfReviews": "446",
+  "reviewsCount": 0,
+  "reviews": [],
+  "reviewTags": []
+}]

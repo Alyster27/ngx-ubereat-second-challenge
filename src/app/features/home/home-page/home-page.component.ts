@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { FormControl, FormGroup } from '@angular/forms';
 import { RestaurantsService } from '../restaurants.service';
 
 @Component({
@@ -24,7 +25,10 @@ export class HomePageComponent implements OnInit {
   ];
   selectedCat!: string;
   public restaurants!: any[];
-  
+  form = new FormGroup({
+    sortBy: new FormControl('picked'),
+    maxFee: new FormControl('4'),
+  })
 
   constructor(
     private readonly _api: RestaurantsService
@@ -39,7 +43,48 @@ export class HomePageComponent implements OnInit {
     })
     .catch(error => {
       console.log('Error Getting Data: ', error)
-    })
+    });
+
+
+    this.form.valueChanges.subscribe(
+      (value) => {
+        const { sortBy, maxFee } = value;
+        console.log(true);
+        switch (true) {
+          case sortBy === 'picked':
+            this.getRestaurantsJsonData();
+            break;
+          case sortBy === 'popular':
+            this.sortByRanking();
+            break;
+          case sortBy === 'rating':
+            this.sortByRating();
+            break;
+          default:
+            break;
+        }
+      }
+    )
+  }
+
+  async getRestaurantsJsonData() {}
+
+  async sortByRanking() {
+    if (!this.restaurants) {
+      return;
+    }
+    this.restaurants = this.restaurants.sort(
+      (a, b) => b.rankingPosition - a.rankingPosition
+    );
+  }
+
+  async sortByRating() {
+    if (!this.restaurants) {
+      return;
+    }
+    this.restaurants = this.restaurants.sort(
+      (a, b) => b.rating - a.rating
+    );
   }
 
   /* async loadRestaurants() {

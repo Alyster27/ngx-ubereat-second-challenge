@@ -1,0 +1,23 @@
+<ion-card class="ion-no-margin" *ngIf="item">
+    <ion-card-header class="ion-no-padding">
+        <ion-button class="likeBtn" color="light" fill="clear" size="small">
+            <ion-icon slot="icon-only" size="small" name="heart-outline"></ion-icon>
+        </ion-button>
+        <div style="height: 130px;" [style.backgroundImage]=""></div>
+    </ion-card-header>
+    <ion-card-content class="ion-no-padding ion-paddign-bottom">
+        <ion-grid class="ion-no-padding">
+            <ion-row class="ion-no-padding ion-align-items-center">
+                <ion-col class="ion-no-padding">
+                    <ion-text color="dark">
+                        <h3 class="ion-padding-top">{{ item.name }}</h3>
+                        <p>CHF 3.90 Fee<small>15-20 min</small></p>
+                    </ion-text>
+                </ion-col>
+                <ion-col size="4" class="ion-text-end">
+                    <ion-chip>{{ item?.rating }}</ion-chip>
+                </ion-col>
+            </ion-row>
+        </ion-grid>
+    </ion-card-content>
+</ion-card>

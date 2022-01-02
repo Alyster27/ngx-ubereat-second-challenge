@@ -21,6 +21,6 @@ export class RestaurantsService {
   } */
 
   getRestaurantsJsonData(): Promise<any[]>{
-    return this._http.get<any[]>('../../assets/json-data/ubereats-restaurants.json').toPromise();
+    return this._http.get<any[]>('../../assets/json-data/ubereat-restaurants.json').toPromise();
   }
 }

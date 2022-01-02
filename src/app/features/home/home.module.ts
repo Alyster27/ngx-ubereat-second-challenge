@@ -6,17 +6,21 @@ import { HomeRoutingModule } from './home-routing.module';
 import { IonicModule } from '@ionic/angular';
 import { RestaurantsService } from './restaurants.service';
 import { HttpClientModule } from '@angular/common/http';
+import { RestoCardComponent } from './resto-card/resto-card.component';
+import { ReactiveFormsModule } from '@angular/forms';
 
 
 @NgModule({
   declarations: [
-    HomePageComponent
+    HomePageComponent,
+    RestoCardComponent
   ],
   imports: [
     CommonModule,
     HomeRoutingModule,
     IonicModule,
-    HttpClientModule
+    HttpClientModule,
+    ReactiveFormsModule
   ],
   providers: [
     RestaurantsService
