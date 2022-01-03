@@ -8,6 +8,7 @@ import { RestaurantsService } from './restaurants.service';
 import { HttpClientModule } from '@angular/common/http';
 import { RestoCardComponent } from './resto-card/resto-card.component';
 import { ReactiveFormsModule } from '@angular/forms';
+import { SharedModule } from 'src/app/shared/shared.module';
 
 
 @NgModule({
@@ -20,7 +21,8 @@ import { ReactiveFormsModule } from '@angular/forms';
     HomeRoutingModule,
     IonicModule,
     HttpClientModule,
-    ReactiveFormsModule
+    ReactiveFormsModule,
+    SharedModule
   ],
   providers: [
     RestaurantsService

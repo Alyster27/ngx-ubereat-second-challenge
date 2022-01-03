@@ -1,0 +1,33 @@
+<ion-header>
+    <ion-toolbar>
+        <ion-title>Delivery details</ion-title>
+        <ion-buttons (click)="modalCtrl.dismiss()" slot="start">
+            <ion-button>
+                <ion-icon size="large" name="close" color="primary"></ion-icon>
+            </ion-button>
+        </ion-buttons>
+    </ion-toolbar>
+    <ion-toolbar class="ion-padding-top">
+        <ion-searchbar
+            mode="ios"
+            searchIcon="pin-outline"
+            ngDefaultControl
+            #inputComplet
+            type="text"
+            placeholder="Enter delivery address"
+            [value]="selectedItem?.place_name"
+            (keyup)="valueChanged(inputComplet)"></ion-searchbar>
+    </ion-toolbar>
+</ion-header>
+
+<ion-content>
+    <ng-container *ngIf="selectedItem === null">
+        <ion-list *ngIf="results$|async as results" class="ion-no-padding">
+            <ion-item
+                (click)="selectItem(item)"
+                *ngFor="let item of results">
+                <ion-label>{{ item?.place_name }}</ion-label>
+            </ion-item>
+        </ion-list>
+    </ng-container>
+</ion-content>

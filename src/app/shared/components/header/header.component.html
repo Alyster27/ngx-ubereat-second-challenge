@@ -1,0 +1,38 @@
+<ion-grid class="header">
+    <ion-row>
+        <ion-col size-sm="6" size-md="3" class="title ion-text-start">
+            <ion-menu-toggle>
+                <ion-button size="small" fill="clear" color="dark">
+                    <ion-icon size="large" name="menu"></ion-icon>
+                </ion-button>
+            </ion-menu-toggle>
+            <ion-img routerLink="/" src="./assets/images/ubereats-logo.svg"></ion-img>
+        </ion-col>
+
+        <ion-col size="3" class="ion-text-end ion-hide-md-down">
+            <span class="ion-text-start addressBtn" (click)="changeAddress()">
+                <ion-icon slot="start" name="pin-outline"></ion-icon>
+                {{ deliveryAddress }} - Now
+            </span>
+        </ion-col>
+
+        <ion-col size="4" class="ion-text-end ion-hide-md-down">
+            <ion-searchbar class="ion-text-start" placeholder="What are you craving ?"></ion-searchbar>
+        </ion-col>
+
+        <ion-col size-sm="6" size-md="2" class="ion-text-end ion-hide-md-down">
+            <ion-buttons>
+                <ion-button shape="round" fill="solid" color="dark" class="ion-padding-end">
+                    <ion-icon slot="start" size="small" name="cart"></ion-icon>
+                    Cart
+                </ion-button>
+                <a rel="noopener" href="https://www.ubereats.com/login-redirect/" target="_blank">
+                    <ion-button shape="round" fill="solid" color="secondary">
+                        <ion-icon slot="start" size="small" name="cart"></ion-icon>
+                        Sign in
+                    </ion-button>
+                </a>
+            </ion-buttons>
+        </ion-col>
+    </ion-row>
+</ion-grid>
