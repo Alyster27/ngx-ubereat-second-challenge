@@ -1,0 +1,40 @@
+:host {
+  display: block;
+  
+  .stickyGrid {
+    position: sticky;
+    top: 0;
+    left: 0;
+    right: 0;
+    background: var(--ion-color-light);
+    z-index: 999;
+  }
+
+  // style recips elements ion-item
+  ion-item {
+    --inner-padding-end: 0;
+    border: solid 1px var(--ioncolor-primary);
+    transition: all 125ms ease-in-out;
+
+    &:hover {
+      border: solid 1px var(--ion-color-primary);
+    }
+  
+    ion-thumbnail {
+      margin: 0;
+      padding: 0;
+      height: 100%;
+      max-height: 158px;
+      width: 158px;
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+    }
+  
+    ion-label {
+      margin: 0;
+      padding: 1rem 0;    
+    }
+  }
+
+}

@@ -1,0 +1,51 @@
+<ion-content>
+    <!-- header -->
+    <app-header></app-header>
+
+    <!-- sub-header -->
+    <ion-grid *ngIf="restaurant">
+        <ion-row class="ion-align-items-end storeImage" [style.backgroundImage]="'url(' + restaurant.photo + ')'">
+            <ion-col size="12" class="ion-padding">
+                <ion-text color="light">
+                    <h1>{{ restaurant.title }}</h1>
+                    <p class="ion-no-margin">{{ restaurant.fareBadge }} | {{ restaurant.etaRange }}</p>
+                </ion-text>
+            </ion-col>
+        </ion-row>
+    </ion-grid>
+
+    <!-- categories menu -->
+    <ion-segment class="stickyGrid" [value]="currentCat">
+        <ion-segment-button
+            *ngFor="let cat of restaurant?.data.slice(0,6); let i = index"
+            [value]="i"
+            (click)="selectCategory(i)">
+        {{ cat.title }}
+        </ion-segment-button>
+    </ion-segment>
+
+    <!-- categories items -->
+    <ion-grid *ngIf="restaurant">
+        <ion-row class="itemRow" *ngFor="let cat of restaurant.data">
+            <ion-col size="12">
+                <h2>{{ cat.title }}</h2>
+            </ion-col>
+            <ion-col *ngFor="let item of cat.recipes" size="12" size-md="4">
+                <ion-item>
+                    <ion-thumbnail
+                        *ngIf="item.imageUrl"
+                        slot="end"
+                        [style.backgroundImage]="'url(' + item.imageUrl + ')'"></ion-thumbnail>
+                    <ion-label>
+                        <h3>
+                            <b>{{ item.title }}</b>
+                        </h3>
+                        <p>{{ item.description}}</p>
+                        <p class="ion-padding-top">CHF {{ item.price/10 }}</p>
+                    </ion-label>
+                </ion-item>
+            </ion-col>
+        </ion-row>
+    </ion-grid>
+
+</ion-content>

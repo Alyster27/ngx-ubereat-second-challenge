@@ -106,7 +106,7 @@
                             size="12"
                             size-md="3"
                             *ngFor="let item of restaurants?.slice(0, 21)">
-                            <app-resto-card [item]="item"></app-resto-card>
+                            <app-resto-card [routerLink]="'/restaurants' + item?.location_id" [item]="item"></app-resto-card>
                         </ion-col>
                     </ion-row>
 
@@ -116,7 +116,7 @@
                             <ion-label>Today's offers</ion-label>
                         </ion-col>
                         <ion-col size="12" size-md="4" *ngFor="let item of restaurants?.slice(4)">
-                            <app-resto-card [item]="item"></app-resto-card>
+                            <app-resto-card [routerLink]="'/restaurants' + item?.location_id" [item]="item"></app-resto-card>
                         </ion-col>
                     </ion-row>
 
@@ -126,7 +126,7 @@
                             <ion-label>Buy one, get one free</ion-label>
                         </ion-col>
                         <ion-col size="12" size-md="4" *ngFor="let item of restaurants?.slice(8, 12)">
-                            <app-resto-card [item]="item"></app-resto-card>
+                            <app-resto-card [routerLink]="'/restaurants' + item?.location_id" [item]="item"></app-resto-card>
                         </ion-col>
                     </ion-row>
 
@@ -149,7 +149,7 @@
                             <ion-label>Popular near you</ion-label>
                         </ion-col>
                         <ion-col size="12" size-md="4" *ngFor="let item of restaurants?.slice(12)">
-                            <app-resto-card [item]="item"></app-resto-card>
+                            <app-resto-card [routerLink]="'/restaurants' + item?.location_id" [item]="item"></app-resto-card>
                         </ion-col>
                     </ion-row>
                 </ion-grid>

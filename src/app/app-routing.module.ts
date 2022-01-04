@@ -7,6 +7,17 @@ const routes: Routes = [
     loadChildren: () => import('./features/home/home.module').then(m => m.HomeModule),
   },
   {
+    path: 'restaurants',
+    children: [
+      {
+        path: ':id',
+        loadChildren: () => import('./features/restaurant/restaurant.module')
+        .then(m => m.RestaurantModule)
+      },
+      {path: '', redirectTo: '/', pathMatch: 'full'}
+    ]
+  },
+  {
     path: '',
     redirectTo: 'home',
     pathMatch: 'full'
